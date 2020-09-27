@@ -3,10 +3,10 @@
 🐻♗  ί ℝ𝒆卂ⓁＬʸ є𝓷ʲⓞ𝓨 ŴⓞŘᵏιη𝕘 𝓞ภ 𝐩𝓡𝔬𝔧έＣⓉร ｗ𝔦𝓉н Ⓐ ⒼόＯ𝔡 𝐜卂𝔲ＳⒺ  🎀☠<br>
 💘🎀  Ⓒ𝓾ℝⓡ乇𝓝𝓣𝐥𝐲 𝓪ⓝ 丨𝐧𝓽𝕖尺η Ã𝔱 s𝐨𝕤 ℃ᵒｎs𝐔Ｌᵗάᵗ丨𝐎Ň  😝♗<br>
 # 🐚♩  ţｈε ᔕŦ𝔞ς𝓚  ★🐙 #
+
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
